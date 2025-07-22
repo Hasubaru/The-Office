@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FPT\\Season 4\\My Game\\The Office\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|c:\\fpt\\season 4\\my game\\the office\\assets\\project\\scripts\\ui\\workuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\ui\\workuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|c:\\fpt\\season 4\\my game\\the office\\assets\\project\\scripts\\systems\\workprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\systems\\workprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|C:\\FPT\\Season 4\\My Game\\The Office\\assets\\project\\scripts\\ui\\hudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\ui\\hudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|C:\\FPT\\Season 4\\My Game\\The Office\\assets\\project\\scripts\\interactions\\computerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\interactions\\computerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|C:\\FPT\\Season 4\\My Game\\The Office\\assets\\project\\scripts\\ui\\staminaui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\ui\\staminaui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|C:\\FPT\\Season 4\\My Game\\The Office\\assets\\project\\scripts\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|C:\\FPT\\Season 4\\My Game\\The Office\\assets\\project\\scripts\\systems\\salarysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\systems\\salarysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|C:\\FPT\\Season 4\\My Game\\The Office\\assets\\project\\scripts\\ui\\skillupgradeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\ui\\skillupgradeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|C:\\FPT\\Season 4\\My Game\\The Office\\assets\\project\\scripts\\systems\\overtimesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\systems\\overtimesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|C:\\FPT\\Season 4\\My Game\\The Office\\assets\\project\\scripts\\ui\\skillupgradeuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\ui\\skillupgradeuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|C:\\FPT\\Season 4\\My Game\\The Office\\assets\\project\\scripts\\systems\\worksessiontracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\systems\\worksessiontracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|C:\\FPT\\Season 4\\My Game\\The Office\\assets\\project\\scripts\\core\\timesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\core\\timesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|C:\\FPT\\Season 4\\My Game\\The Office\\assets\\project\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|C:\\FPT\\Season 4\\My Game\\The Office\\assets\\project\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|C:\\FPT\\Season 4\\My Game\\The Office\\assets\\project\\scripts\\ui\\clockui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\ui\\clockui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|C:\\FPT\\Season 4\\My Game\\The Office\\assets\\project\\scripts\\systems\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1912EC4E-DEA3-8C5E-D6C9-0911C270035D}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\systems\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkUIManager.cs",
+              "DocumentMoniker": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\UI\\WorkUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\UI\\WorkUIManager.cs",
+              "ToolTip": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\UI\\WorkUIManager.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\UI\\WorkUIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:19:31.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HUDManager.cs",
+              "DocumentMoniker": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\UI\\HUDManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\UI\\HUDManager.cs",
+              "ToolTip": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\UI\\HUDManager.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\UI\\HUDManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:52:37.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkSessionTracker.cs",
+              "DocumentMoniker": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\Systems\\WorkSessionTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Systems\\WorkSessionTracker.cs",
+              "ToolTip": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\Systems\\WorkSessionTracker.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Systems\\WorkSessionTracker.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:20:23.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SkillUpgradeUIController.cs",
+              "DocumentMoniker": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\UI\\SkillUpgradeUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\UI\\SkillUpgradeUIController.cs",
+              "ToolTip": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\UI\\SkillUpgradeUIController.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\UI\\SkillUpgradeUIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T03:41:30.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OvertimeSystem.cs",
+              "DocumentMoniker": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\Systems\\OvertimeSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Systems\\OvertimeSystem.cs",
+              "ToolTip": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\Systems\\OvertimeSystem.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Systems\\OvertimeSystem.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAiwC8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:21:44.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkProgress.cs",
+              "DocumentMoniker": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\Systems\\WorkProgress.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Systems\\WorkProgress.cs",
+              "ToolTip": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\Systems\\WorkProgress.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Systems\\WorkProgress.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:29:24.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SkillUpgradeUI.cs",
+              "DocumentMoniker": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\UI\\SkillUpgradeUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\UI\\SkillUpgradeUI.cs",
+              "ToolTip": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\UI\\SkillUpgradeUI.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\UI\\SkillUpgradeUI.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:57:58.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalarySystem.cs",
+              "DocumentMoniker": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\Systems\\SalarySystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Systems\\SalarySystem.cs",
+              "ToolTip": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\Systems\\SalarySystem.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Systems\\SalarySystem.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T08:29:31.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\Player\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Player\\PlayerStats.cs",
+              "ToolTip": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\Player\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Player\\PlayerStats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T08:24:57.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaminaUI.cs",
+              "DocumentMoniker": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\UI\\StaminaUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\UI\\StaminaUI.cs",
+              "ToolTip": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\UI\\StaminaUI.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\UI\\StaminaUI.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T07:43:43.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComputerInteraction.cs",
+              "DocumentMoniker": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\Interactions\\ComputerInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Interactions\\ComputerInteraction.cs",
+              "ToolTip": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\Interactions\\ComputerInteraction.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Interactions\\ComputerInteraction.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:27:23.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\Systems\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Systems\\CameraFollow.cs",
+              "ToolTip": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\Systems\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Systems\\CameraFollow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:17:29.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:06:28.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClockUI.cs",
+              "DocumentMoniker": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\UI\\ClockUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\UI\\ClockUI.cs",
+              "ToolTip": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\UI\\ClockUI.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\UI\\ClockUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:57:09.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TimeSystem.cs",
+              "DocumentMoniker": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\Core\\TimeSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Core\\TimeSystem.cs",
+              "ToolTip": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\Core\\TimeSystem.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Core\\TimeSystem.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAYwKYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:54:10.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\Core\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Core\\GameManager.cs",
+              "ToolTip": "C:\\FPT\\Season 4\\My Game\\The Office\\Assets\\Project\\Scripts\\Core\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Core\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:53:32.398Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
